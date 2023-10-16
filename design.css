@@ -1,0 +1,19 @@
+*{
+    background-color: aqua;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.subContainer{
+    border: 10px rgb(20, 1, 1) solid;
+    height: 30px;
+    width: 100px;
+}
